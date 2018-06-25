@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
 gem "autoprefixer-rails"
-gem "html-proofer"
+gem "html-proofer", ">= 3.4.0"
 gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
-gem "jemoji"
+gem "jemoji", ">= 0.7.0"
 gem "mini_magick"
 gem "sass"
 gem "uglifier"
